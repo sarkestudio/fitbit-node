@@ -1,6 +1,6 @@
 {
-    "name": "fitbit-node",
-    "version": "2.1.0+001",
+    "name": "@sarkestudio/fitbit-node",
+    "version": "2.2.0",
     "description": "An API client library for Fitbit written in Node.js.",
     "main": "fitbit-api-client.js",
     "scripts": {
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/lukasolson/fitbit-node"
+        "url": "https://github.com/sarkestudio/fitbit-node"
     },
     "keywords": [
         "Fitbit",
@@ -17,7 +17,7 @@
     "author": "Lukas Olson <olson.lukas@gmail.com>",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/lukasolson/fitbit-node/issues"
+        "url": "https://github.com/sarkestudio/fitbit-node/issues"
     },
     "dependencies": {
         "simple-oauth2": "^1.5.0",
